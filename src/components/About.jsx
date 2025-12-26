@@ -72,7 +72,7 @@ const About = () => {
           {/* Content */}
           <div ref={contentRef}>
             <h2 className="mb-6 text-4xl font-bold text-gray-900 md:text-5xl dark:text-white">
-              About Nexora
+              About Us
             </h2>
             <div className="mb-6 space-y-4 text-lg text-gray-600 dark:text-gray-300">
               <p>
